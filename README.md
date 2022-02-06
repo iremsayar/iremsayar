@@ -1,6 +1,6 @@
 <h2 align="center">
    Hello 👋 I'm İrem. 
-   I am working as a Junior Frontend Developer. I develop content on HTML, CSS, javascript and React.
+   I am working as a Frontend Developer. I develop content on HTML, CSS, javascript and React.
 
 </h2>
 
