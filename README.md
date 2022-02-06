@@ -1,5 +1,6 @@
 <h1 align="center">
-   Hello visitor 👋 I'm İrem. I am working as a Junior Frontend Developer. I develop content on HTML, CSS, javascript and React.
+   Hello 👋 I'm İrem. 
+   I am working as a Junior Frontend Developer. I develop content on HTML, CSS, javascript and React.
 
 </h1>
 
