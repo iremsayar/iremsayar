@@ -2,7 +2,7 @@
 
 <h6 align="center" >
    Hello 👋 I'm İrem. 
-   I am working as a Frontend Developer. I develop content on HTML, CSS, JavaScript and React.
+   I am working as a Full Stack Developer.
    </h6>
 <p align="center">
 <img  src="https://user-images.githubusercontent.com/39015459/153072231-175f74cf-1a6e-4355-a12a-7bd158f8972c.gif"  height="100" />  
